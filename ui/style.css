@@ -19,4 +19,8 @@ body {
 .img-medium {
     height: 200px;
 }
-
+.container{
+            max-width: 800px;
+            color: grey;
+            margin: 0 auto;
+        }
